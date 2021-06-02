@@ -95,7 +95,7 @@ We have supplemented the house price data with the Victorian crime rates, which 
 ## Caveats
 -	Dropped columns that had nulls/NAs. 
 -	Bedrooms 2 came from other source to ignored and used number of rooms instead
--	What date to scrape and pass in to the model for the prediction. Not all listings are auctions so we don’t know the date that they will sell. Using the date the prediction is made instead. 
+-	What date to scrape and pass in to the model for the prediction. Not all listings are auctions so we don’t know the date that they will sell. Using the date the prediction is made instead
 
 
 ## Challenges and potential improvements
